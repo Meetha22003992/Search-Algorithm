@@ -90,7 +90,8 @@ if(result==-1):
 else:
     print(arr,"\nElement found at index: ",result)
 ```
-##Output
+## Output
+
 ![image](https://github.com/Meetha22003992/Search-Algorithm/assets/119401038/1f20c126-f285-45b3-a737-7a7e28b887ed)
 
 ![image](https://github.com/Meetha22003992/Search-Algorithm/assets/119401038/cd7ebf30-1447-465f-aa4b-e4ffe8d1ebd0)
