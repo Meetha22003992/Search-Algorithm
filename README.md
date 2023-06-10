@@ -1,6 +1,6 @@
 # Linear Search and Binary search
 ## Aim:
-To write a program to perform linear search and binary search using python programming.
+To write a python program to perform linear search and binary search using python programming.
 ## Equipment’s required:
 1.	Hardware – PCs
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
