@@ -40,6 +40,7 @@ if(result==-1):
 else:
     print(array,"\nElement found at index: ",result)
 ```
+```
 ii)	# Find the element in a list using Binary Search(Iterative Method).
 Developed by:Meetha Prabhu
 RegisterNumber: 21222240065
