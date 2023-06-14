@@ -65,7 +65,9 @@ if (result==-1):
 else:
     print(array,"\nElement found at index: ",result)
 ```
-iii)```	# Find the element in a list using Binary Search (recursive Method).
+iii)
+```	
+# Find the element in a list using Binary Search (recursive Method).
 #Developed by:Meetha Prabhu
 #Reg No:21222240065
 def BinarySearch(arr, k, low, high):
